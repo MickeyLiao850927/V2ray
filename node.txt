@@ -1,5 +1,5 @@
-#Singapore-Vultr
-vmess://YXV0bzo2YTZjMTRhMy1kNjU5LTQ4NDMtOTFjYi03ZjFjYjQzNmE2MWRANDUuNzYuMTgzLjQyOjU4NjQ1?remarks=Singapore-Vultr&obfs=http&cert=
+#Tokyo-Vultr
+vmess://eyJwb3J0IjoiNDQzIiwicHMiOiJUb2t5byIsInRscyI6InRscyIsImlkIjoiODg3OGUwODgtMjhlNi00ODFlLTgwZmEtNWQ1Y2VhNDE2NjdlIiwiYWlkIjoiMjMzIiwidiI6IjIiLCJob3N0IjoidGVzdGllZy5nYSIsInR5cGUiOiJub25lIiwicGF0aCI6IlwvIiwibmV0Ijoid3MiLCJhZGQiOiJ0ZXN0aWVnLmdhIn0=
 
 #Los Angeles— Vultr
 vmess://YXV0bzplYjY1Yzg4OC0wMjdhLTRmYmYtYWRiNi1kZjRmNGQxNTM2MTZANDUuMzIuODkuMTE6NTg2NDU?remarks=Los%20Angeles-Vultr&obfs=http&cert=
