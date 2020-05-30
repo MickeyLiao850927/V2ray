@@ -12,3 +12,12 @@ vmess://eyJwb3J0IjoiMTkyNzgiLCJwcyI6IkpNUzAzKFByZWZlcnJlZDEpIiwidGxzIjoibm9uZSIs
 
 #JMS06
 vmess://eyJwb3J0IjoiMTkyNzgiLCJwcyI6IkpNUzA2KFByZWZlcnJlZDIpIiwidGxzIjoibm9uZSIsImlkIjoiNzg5NWE3MDgtYjlhNi00OWZjLThhNTMtYzY2NDFhMDRmN2E2IiwiYWlkIjoiMCIsInYiOiIyIiwiaG9zdCI6IiIsInR5cGUiOiJub25lIiwicGF0aCI6IiIsIm5ldCI6InRjcCIsImFkZCI6ImMyNXM4MDEuamFtamFtcy5uZXQifQ==
+
+#Taiwan
+vmess://YXV0bzo3ZjVkY2FkZC02NzViLTQwYzUtYjFmZi0wNDdkMTQzYWQ2ZWZAYXJ0bm90ZWJvb2suZ3E6NDQz?remarks=IEG-Taiwan4&obfsParam=artnotebook.gq&path=/&obfs=websocket&tls=1
+
+#HongKong
+vmess://YXV0bzpkOWExODRjZS1kNjQ2LTQwYTUtYTdlZS03MmE4MzZmNGVkNDJAYXJ0bm90ZWJvb2subWw6NDQz?remarks=IEG-HongKong-ml&obfsParam=artnotebook.ml&path=/&obfs=websocket&tls=1
+
+#Singapore
+vmess://YXV0bzo5NjY0ZTk0OC01N2VkLTRhNWQtYjQ3NC05OWNkMTJjYjUxMzVAd3d3LmFydG5vdGVib29rLnRrOjQ0Mw?remarks=IEG-Singapore&obfsParam=www.artnotebook.tk&path=/&obfs=websocket&tls=1
